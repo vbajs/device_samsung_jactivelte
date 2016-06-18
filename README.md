@@ -1,5 +1,5 @@
-#Copyright 2016 - The Yurbo Project
+#Copyright 2016 - The Turbo Project
 
-Device configuration for Samsung Galaxy S4 Actice (I9295 only).
+Device configuration for Samsung Galaxy S4 Actice (GT-I9295).
 
 WORK IN PROGRESS. WILL EAT YOUR CAT.
